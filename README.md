@@ -1,7 +1,6 @@
 
 
- ![输入图片说明](https://urlnet.oss-cn-shenzhen.aliyuncs.com/wp-content/uploads/2024/09/584e9037b446577.svg)
-
+![输入图片说明](%E7%BB%84%20157.png)
 
 ## 👋 欢迎来到智能AIGC系统！这是新一代 AIGC 一站式 B/C 端解决方案。
 
@@ -18,7 +17,7 @@
 
 
 ## 🎉系统功能特性
- - 🚀 使用 Nodejs + NestJs 服务端渲染技术，支持高并发（万级甚至千万级用户同时请求使用），提供更高的可用性和稳定性。
+ - 🚀 基于Vue3、uni-app、ThinkPHP6.x、PostgreSQL、pgvector技术栈开发，支持高并发（万级甚至千万级用户同时请求使用），提供更高的可用性和稳定性。
 
  - 📡 支持宝塔常规部署和 Decker 一键部署方式，所有对接配置均可在后台界面上完成。
 
