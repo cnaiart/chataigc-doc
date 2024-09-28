@@ -1,0 +1,140 @@
+/* 首页图片背景样式 */
+.image-bg {
+  /* 设置背景图片的透明度为 70% */
+  opacity: .7;
+}
+
+/* 首页英雄区图片样式 */
+.home-hero .image {
+  /* 设置图片宽度为 200 像素 */
+  width: 200px;
+  /* 设置图片高度为 200 像素 */
+  height: 200px;
+}
+
+/* 导航栏中 logo 的样式 */
+.nav-bar .logo {
+  /* 设置 logo 的高度为 30 像素 */
+  height: 30px;
+  /* 设置 logo 右侧的外边距为 2 像素 */
+  margin-right: 2px;
+}
+
+/* 内容区域图片样式 */
+.content img {
+  /* 设置图片的边框圆角为 10 像素 */
+  border-radius: 10px;
+}
+
+/* 导航下拉链接项中的图标样式 */
+.nav-dropdown-link-item .icon {
+  /* 隐藏图标 */
+  display: none;
+}
+
+/* 定义 CSS 变量 */
+:root {
+  /* 品牌主色调 */
+  --c-brand: #3f8bdb;
+  /* 品牌浅色调 */
+  --c-brand-light: #017cff;
+}
+
+/* 提示区块样式 */
+.custom-block.tip {
+  /* 设置边框颜色为品牌浅色调 */
+  border-color: var(--c-brand-light);
+}
+
+/* 文档搜索框样式 */
+.DocSearch {
+  /* 设置文档搜索的主要颜色为品牌主色调 */
+  --docsearch-primary-color: var(--c-brand) !important;
+}
+
+/* 播放 Vite 音频的按钮样式 */
+#play-vite-audio {
+  /* 移除内边距 */
+  padding: 0;
+  /* 设置左侧外边距为 5 像素 */
+  margin-left: 5px;
+  /* 设置为行内块级元素 */
+  display: inline-flex;
+}
+
+/* 播放 Vite 音频按钮中的图片样式 */
+#play-vite-audio img {
+  /* 设置图片透明度为 80% */
+  opacity: 0.8;
+}
+
+/* 针对中文文档的特定样式 */
+.cn-footnote {
+  /* 设置顶部外边距为 20 像素 */
+  margin-top: 20px;
+}
+
+.cn-footnote .title {
+  /* 设置为块级元素 */
+  display: block;
+  /* 设置底部外边距为 10 像素 */
+  margin-bottom: 10px;
+}
+
+/* 中文文档 GitHub 发布标签样式 */
+.docs-cn-github-release-tag {
+  /* 设置字体大小为 14 像素 */
+  font-size: 14px;
+  /* 设置字体加粗 */
+  font-weight: bold;
+  /* 设置内边距 */
+  padding: 4px 6px;
+  /* 设置左侧外边距 */
+  margin-left: 6px;
+  /* 设置背景颜色为品牌主色调 */
+  background: var(--c-brand);
+  /* 设置文字颜色为白色 */
+  color: white;
+  /* 设置边框圆角 */
+  border-radius: 10px;
+  /* 设置垂直对齐方式 */
+  vertical-align: middle;
+}
+
+/* 广告容器样式 */
+#wwads-container {
+  /* 设置定位方式 */
+  position: relative;
+  /* 设置浮动方向 */
+  float: right;
+  /* 设置堆叠顺序 */
+  z-index: 9;
+  /* 设置外边距 */
+  margin: 0 0 16px 16px;
+}
+
+/* 广告容器中的文本样式 */
+#wwads-container .wwads-text {
+  /* 设置字体大小为 12 像素 */
+  font-size: 12px;
+}
+
+/* 页面内容容器的样式 */
+.page .container .content {
+  /* 重要！清除浮动，确保内容不会受到浮动元素的影响 */
+  clear: none !important;
+}
+
+/* 当屏幕宽度大于或等于 1368 像素时的样式 */
+@media (min-width: 1368px) {
+  #wwads-container {
+    /* 设置定位方式为固定 */
+    position: fixed;
+    /* 设置底部外边距 */
+    bottom: 10px;
+    /* 设置右侧外边距 */
+    right: 10px;
+    /* 移除外边距 */
+    margin: 0;
+  }
+}
