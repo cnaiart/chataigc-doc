@@ -1,37 +1,74 @@
-# chataigc-doc
+## 这里是 AIGC创作系统 文档，采用 VitePress 搭建 
 
-#### 介绍
-ChatAigc说明文档，全能AI知识库系统PHP版，基于前后端分离架构以及Vue3、uni-app、ThinkPHP6.x、PostgreSQL、pgvector技术栈开发，包含PC端、H5端，拥有强大的第三方对接能力。适用于企业智能客服、企业智能文档、专家顾问助理等多种企业级商用场景，具有较大的商业使用价值。
+在线地址：http://comnew.cn
 
-#### 软件架构
-软件架构说明
+启动代码：npm run dev
 
+打包代码：npm run build
 
-#### 安装教程
+Make方式：make dev / make dist
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+VitePress 说明文档：https://vitepress.vuejs.org/
 
-#### 使用说明
+## 总览
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+AIGC创作系统 是一个低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。
+它的技术栈为：**`Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5  + Axios + Pinia2 + PlopJS`**
 
-#### 参与贡献
+在线 Demo 地址：[https://comnew.cn](https://comnew.cn)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+Gitee 源码地址：[https://comnew.cn](https://comnew.cn)
 
+## 浏览器支持
 
-#### 特技
+开发和测试平台均在 Google 和最新版 EDGE 上完成，暂未测试 IE11 等其它浏览器，如有需求请自行测试。 
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 安装
+
+本项目采用 pnpm 进行包管理，若要使用其它管理方式，请删除 `pnpm-lock.yaml` 并安装依赖
+
+```shell
+#pnpm（建议使用nrm切换到淘宝源）
+pnpm install
+
+# npm
+npm install
+
+# yarn
+yarn install
+
+```
+
+## 启动
+
+```shell
+#pnpm
+pnpm dev
+
+# npm
+npm run dev
+
+#yarn
+yarn dev
+
+#Makefile
+make dev
+```
+
+## 编译
+
+```shell
+#pnpm
+pnpm run build
+
+# npm
+npm run build
+
+#yarn
+yarn run build
+
+#Makefile
+make dist
+
+```
+## 交流
