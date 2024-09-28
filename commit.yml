@@ -2,106 +2,808 @@
 branches: {
   }
 fileChange:
-  /.vitepress:
-    newFile: !uuid '7d07791977daa064fec02eb310dd80485acd4c8b'
+  /author:
+    newFile: !uuid 'd07233dd76a3fca194393389063f6abe75b6bf2a'
     oldFile: null
-  /.vitepress/cache:
-    newFile: !uuid '7c232ac9b9f57d44d9510a063139f745547f3401'
+  /author/images:
+    newFile: !uuid '9de854010ce53d8f001001c5eeee06ecf2189ec1'
     oldFile: null
-  /.vitepress/cache/deps:
-    newFile: !uuid 'acdcc31d36c6d1378dba45d19ac52b9a262f7bb7'
+  /author/images/p1.jpg:
+    newFile: !uuid 'a43851f513cb03462e610a64d63e1e47f1dbb1dc'
     oldFile: null
-  /.vitepress/cache/deps/_metadata.json:
-    newFile: !uuid '9fb2eb2cc89b6cb7762eccc3a254d26397e270a7'
+  /author/images/p2.png:
+    newFile: !uuid 'ff53128f09a65b10b50c0c9b59d185d7acd399d9'
     oldFile: null
-  /.vitepress/cache/deps/chunk-NT7YHOBS.js:
-    newFile: !uuid '9f8b561689a0fb1690388b48d06c2ecc593d8429'
+  /author/images/wx.png:
+    newFile: !uuid 'a0a603a350706aebe15071cae87240a10891cf25'
     oldFile: null
-  /.vitepress/cache/deps/chunk-NT7YHOBS.js.map:
-    newFile: !uuid 'd501cbb5b6bb84a364156913e62c1ae5ff213e19'
+  /author/images/zfb.png:
+    newFile: !uuid '6ccb4ab588df2a7d1a321a9abeef2e50524f698f'
     oldFile: null
-  /.vitepress/cache/deps/package.json:
-    newFile: !uuid '3dbc1ca591c0557e35b6004aeba250e6a70b56e3'
+  /author/index.md:
+    newFile: !uuid 'fcf5eab9e7abbb2f1d01bf8ac75c897ecf2e3bb3'
     oldFile: null
-  /.vitepress/cache/deps/vitepress___@vue_devtools-api.js:
-    newFile: !uuid '267724f9e1bc910676a6b4ddb28adff292462537'
+  /chengDan:
+    newFile: !uuid '525c8c8bfeea5f994c7a9d873fccac8308095cb4'
     oldFile: null
-  /.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map:
-    newFile: !uuid '2b53651c001c3f2a9c89e13d25e9ac2f30cef40e'
+  /chengDan/images:
+    newFile: !uuid '9512c8cdcd1bb5edb5a411257683b4b905af9fb8'
     oldFile: null
-  /.vitepress/cache/deps/vitepress___@vueuse_core.js:
-    newFile: !uuid '3cf1f7b017cc1a2bce20e743701696deb5b930c0'
+  /chengDan/images/chengDan_index.png:
+    newFile: !uuid '6a9313675f5e85a3e02519ceaa6aa4388d041419'
     oldFile: null
-  /.vitepress/cache/deps/vitepress___@vueuse_core.js.map:
-    newFile: !uuid '598bf0a1ea6c0544b34115051ca9b8be930dbfd6'
+  /chengDan/images/chengDan_logo.png:
+    newFile: !uuid '5cb00af898699b9167e9c5ca18966ada7f92f065'
     oldFile: null
-  /.vitepress/cache/deps/vue.js:
-    newFile: !uuid '4b74def380f2be032fe395d5e36fae7e4e8716a2'
+  /chengDan/images/flow.png:
+    newFile: !uuid '6284aeaba02ae458db5179bb64f90d3eecfacd21'
     oldFile: null
-  /.vitepress/cache/deps/vue.js.map:
-    newFile: !uuid '98652118b6862120fb1a693020ad8654fe85851d'
+  /chengDan/images/qq-person.png:
+    newFile: !uuid '9a2737158e7d0f6298b9d0b5175f89acf467870f'
     oldFile: null
-  /.vitepress/config copy.mts:
-    newFile: !uuid '2d8980026333658594e2ca40f102661e61170bc1'
+  /chengDan/index.md:
+    newFile: !uuid 'e8b74f9562da96b2604268580933a739a327b8b5'
     oldFile: null
-  /.vitepress/config.mts:
-    newFile: !uuid '483abf09dc799128102f718a853a29d62da89cf9'
+  /cooperative:
+    newFile: !uuid 'b432dc03e316553d0542726a527cad9d80e2fb46'
     oldFile: null
-  /.vitepress/theme:
-    newFile: !uuid '4d88649dab648dcb4515bd6efa2602e6231a7faf'
+  /cooperative/cooperative.ts:
+    newFile: !uuid '141dac6e49ac423e6a7a85d0414e0b0cde3d1e8e'
     oldFile: null
-  /.vitepress/theme/components:
-    newFile: !uuid '385ade72476894e6f835ae601fdf84c733aec70f'
+  /cooperative/index.md:
+    newFile: !uuid '9ad8ecb739feb897a6e04e9296ecc861cf923d4e'
     oldFile: null
-  /.vitepress/theme/components/AsideSponsors.vue:
-    newFile: !uuid 'cd2a4caa623059c01e3c51b1a7f016fd6fb0789f'
+  /dist:
+    newFile: !uuid 'a1ca443181e84fd4830b861c418ae342690217b7'
     oldFile: null
-  /.vitepress/theme/components/HomeSponsors.vue:
-    newFile: !uuid '9729c8689e21e27a82821bf9667c7444ce96d7cd'
+  /dist/404.html:
+    newFile: !uuid 'be27ee308a1446ac22c590661c2b39103d9d8375'
     oldFile: null
-  /.vitepress/theme/components/LayoutBottom.vue:
-    newFile: !uuid 'a0dbd4566061abfd22a73db699166320814838a4'
+  /dist/GoViewPro.png:
+    newFile: !uuid 'd09bde9554847198ead36b043a2c0d4e4647ab2c'
     oldFile: null
-  /.vitepress/theme/components/SidebarNavBefore.vue:
-    newFile: !uuid '9df8ee4f914eec43be3e9a7a0bd22ad35e2a2304'
+  /dist/GoViewPro_banner.png:
+    newFile: !uuid 'a197cda8a97f2ac1f90d89d452f814364e22a1d4'
     oldFile: null
-  /.vitepress/theme/components/SvgImage.vue:
-    newFile: !uuid '3440988030d2db9a7ca6a364fd16f9162779c9e0'
+  /dist/GoViewPro_mini.png:
+    newFile: !uuid '904a0ca6ecc00f2b1688981ae064367a42d56304'
     oldFile: null
-  /.vitepress/theme/composables:
-    newFile: !uuid 'dab8b953f8e3ccf44081fb2fb07dfe9b730a7593'
+  /dist/README.html:
+    newFile: !uuid '26d4d750dfe82e32ae200e823ef19bdddd09a99f'
     oldFile: null
-  /.vitepress/theme/composables/cooperative.ts:
-    newFile: !uuid 'df5adcd15e089d35fad7c4fcdb4eda36f08b8ec5'
+  /dist/assets:
+    newFile: !uuid '00a62fc50fa7287ce80530f7638177ce5c730a29'
     oldFile: null
-  /.vitepress/theme/composables/sponsor.ts:
-    newFile: !uuid 'c91f3bd20522fd014d75d7b63e12383a09900f31'
+  /dist/assets/MIT.CvWL2qtC.png:
+    newFile: !uuid 'c5da6de148da8eeadcf051fc53cd6aeb61e688d3'
     oldFile: null
-  /.vitepress/theme/custom copy.css:
-    newFile: !uuid 'd69e081ca366e80f8f0ba23784537814f238750e'
+  /dist/assets/README.md.CN8Ut8-I.js:
+    newFile: !uuid 'dd9284af6270dafeab062cf275ca69ac751af303'
     oldFile: null
-  /.vitepress/theme/custom.css:
-    newFile: !uuid '0e7eb2e398f234b28e2dde08d144b23a4feea333'
+  /dist/assets/README.md.CN8Ut8-I.lean.js:
+    newFile: !uuid 'dd9284af6270dafeab062cf275ca69ac751af303'
     oldFile: null
-  /.vitepress/theme/index.ts:
-    newFile: !uuid '2bcd4c2bb56ff67f391462d43230f603b32d6aeb'
+  /dist/assets/app.7oJ8x8uC.js:
+    newFile: !uuid '6980b46fc4dd99552e6f25739259938b169a9460'
     oldFile: null
-  /.vitepress/theme/styles:
-    newFile: !uuid '701517e4c9eb0a7e07f1aeae555d81d1e407a6bb'
+  /dist/assets/author_index.md.Dxm9OySf.js:
+    newFile: !uuid '11467b436453df7d98bc1bdfef321651f7d334cb'
     oldFile: null
-  /.vitepress/theme/styles/vars copy.css:
-    newFile: !uuid '67a6a6ce347c15fd816b3031f3da0ba40c43114d'
+  /dist/assets/author_index.md.Dxm9OySf.lean.js:
+    newFile: !uuid '11467b436453df7d98bc1bdfef321651f7d334cb'
     oldFile: null
-  /.vitepress/theme/styles/vars.css:
-    newFile: !uuid '67a6a6ce347c15fd816b3031f3da0ba40c43114d'
+  /dist/assets/canvas.DtVeKA7c.png:
+    newFile: !uuid '7869fef5f4e674b6690b126ccc2372ccddfc88da'
     oldFile: null
-  /.vitepress/utils:
-    newFile: !uuid '45045752b67d9f818aa2b3500feda00fb1966f37'
+  /dist/assets/certificate.DyyYCkeI.jpg:
+    newFile: !uuid '4858a588bc8214a76e0a6609c693a05d5d7b4dc2'
     oldFile: null
-  /.vitepress/utils/fetchReleaseTag.js:
-    newFile: !uuid '0ea178048139048f8ad21ee94cabdb6a9f297f76'
+  /dist/assets/charts._SopP6h_.png:
+    newFile: !uuid 'b6bf593911795e6570518104754906a6353afefd'
     oldFile: null
-gitCommitId: !uuid '785e51cadcd8b4a9ca446ad349be3ef8dba9323c'
+  /dist/assets/chengDan_index.BivqOv9V.png:
+    newFile: !uuid '6a9313675f5e85a3e02519ceaa6aa4388d041419'
+    oldFile: null
+  /dist/assets/chengDan_index.md.CReBZt1q.js:
+    newFile: !uuid 'f1b30d52e9ee8db0e384b671ad9da543c5cc8c63'
+    oldFile: null
+  /dist/assets/chengDan_index.md.CReBZt1q.lean.js:
+    newFile: !uuid 'f1b30d52e9ee8db0e384b671ad9da543c5cc8c63'
+    oldFile: null
+  /dist/assets/chengDan_logo.CrxVmZoN.png:
+    newFile: !uuid '5cb00af898699b9167e9c5ca18966ada7f92f065'
+    oldFile: null
+  /dist/assets/chunks:
+    newFile: !uuid '02f9db101e62edadba63eb2183d48b819a9ce096'
+    oldFile: null
+  /dist/assets/chunks/VPAlgoliaSearchBox.D8tWuZYM.js:
+    newFile: !uuid 'b7d349eb21d3d8dbbff40aea4b558f034ec12e3b'
+    oldFile: null
+  /dist/assets/chunks/framework.DSDFBGki.js:
+    newFile: !uuid '5099a68107838c1f411a788c94b64d13a849f8fe'
+    oldFile: null
+  /dist/assets/chunks/theme.D0Glof59.js:
+    newFile: !uuid '66a931b5ae7163679b5df238879257d7afed0ab7'
+    oldFile: null
+  /dist/assets/color.Eo90Ggfm.png:
+    newFile: !uuid '32e241620fdf85b462b896a12794e98b80bafca6'
+    oldFile: null
+  /dist/assets/cooperative_index.md.BoNjNLWO.js:
+    newFile: !uuid '388cb30c1027e31ffb4254433724a50ff60b71c3'
+    oldFile: null
+  /dist/assets/cooperative_index.md.BoNjNLWO.lean.js:
+    newFile: !uuid '388cb30c1027e31ffb4254433724a50ff60b71c3'
+    oldFile: null
+  /dist/assets/flow.CsSxiCZ3.png:
+    newFile: !uuid '6284aeaba02ae458db5179bb64f90d3eecfacd21'
+    oldFile: null
+  /dist/assets/guide_design_canvas.md.DAzjfg-S.js:
+    newFile: !uuid '15de0ea75d6480f27970c145c6fe0cd307eee151'
+    oldFile: null
+  /dist/assets/guide_design_canvas.md.DAzjfg-S.lean.js:
+    newFile: !uuid '15de0ea75d6480f27970c145c6fe0cd307eee151'
+    oldFile: null
+  /dist/assets/guide_design_charts.md.5CuYLe5K.js:
+    newFile: !uuid 'd0e71a27842e84e7cabaea6cd14c70581471e0ff'
+    oldFile: null
+  /dist/assets/guide_design_charts.md.5CuYLe5K.lean.js:
+    newFile: !uuid 'd0e71a27842e84e7cabaea6cd14c70581471e0ff'
+    oldFile: null
+  /dist/assets/guide_design_directory.md.DYW21D3o.js:
+    newFile: !uuid 'a6f7694d4227da527003e645770f2e80326d2e35'
+    oldFile: null
+  /dist/assets/guide_design_directory.md.DYW21D3o.lean.js:
+    newFile: !uuid 'a6f7694d4227da527003e645770f2e80326d2e35'
+    oldFile: null
+  /dist/assets/guide_design_history.md.BUiWYKhQ.js:
+    newFile: !uuid '76bcc4281a116ac76b785f1ef69d0d58eadacc9a'
+    oldFile: null
+  /dist/assets/guide_design_history.md.BUiWYKhQ.lean.js:
+    newFile: !uuid '76bcc4281a116ac76b785f1ef69d0d58eadacc9a'
+    oldFile: null
+  /dist/assets/guide_design_preview.md.CWeOisb9.js:
+    newFile: !uuid '857d9e9c675b03d3a8853efe42796f722e34fc28'
+    oldFile: null
+  /dist/assets/guide_design_preview.md.CWeOisb9.lean.js:
+    newFile: !uuid '857d9e9c675b03d3a8853efe42796f722e34fc28'
+    oldFile: null
+  /dist/assets/guide_develop_addCharts.md.b2IbLUDX.js:
+    newFile: !uuid '068841d2d74fc2b47eef27ba2e43dada0a1d036b'
+    oldFile: null
+  /dist/assets/guide_develop_addCharts.md.b2IbLUDX.lean.js:
+    newFile: !uuid '068841d2d74fc2b47eef27ba2e43dada0a1d036b'
+    oldFile: null
+  /dist/assets/guide_develop_addEcharts.md.DGvNlHhl.js:
+    newFile: !uuid 'e9d5d5ec020f10c6bcb04d600856611eacc6b692'
+    oldFile: null
+  /dist/assets/guide_develop_addEcharts.md.DGvNlHhl.lean.js:
+    newFile: !uuid 'e9d5d5ec020f10c6bcb04d600856611eacc6b692'
+    oldFile: null
+  /dist/assets/guide_develop_addInteractCharts.md.BZF5UZ5e.js:
+    newFile: !uuid '8b498e510a8cbbe309dd2fa326e29962d5b53e99'
+    oldFile: null
+  /dist/assets/guide_develop_addInteractCharts.md.BZF5UZ5e.lean.js:
+    newFile: !uuid '8b498e510a8cbbe309dd2fa326e29962d5b53e99'
+    oldFile: null
+  /dist/assets/guide_develop_editChartsColor.md.D-F33cmF.js:
+    newFile: !uuid '1f6ed3b106ba6a17b3b478d1a02a1b6e74b91411'
+    oldFile: null
+  /dist/assets/guide_develop_editChartsColor.md.D-F33cmF.lean.js:
+    newFile: !uuid '1f6ed3b106ba6a17b3b478d1a02a1b6e74b91411'
+    oldFile: null
+  /dist/assets/guide_develop_editChartsData.md.DNNGP-6V.js:
+    newFile: !uuid '0aa2260b65a362c7af401047643129e8e2262341'
+    oldFile: null
+  /dist/assets/guide_develop_editChartsData.md.DNNGP-6V.lean.js:
+    newFile: !uuid '0aa2260b65a362c7af401047643129e8e2262341'
+    oldFile: null
+  /dist/assets/guide_develop_editGlobalColor.md.BWbcvOlt.js:
+    newFile: !uuid '30e87e95b242bf527f496f105b5cf0671d563404'
+    oldFile: null
+  /dist/assets/guide_develop_editGlobalColor.md.BWbcvOlt.lean.js:
+    newFile: !uuid '30e87e95b242bf527f496f105b5cf0671d563404'
+    oldFile: null
+  /dist/assets/guide_develop_editGlobalLang.md.B4ZGxUzb.js:
+    newFile: !uuid '1e985d38367beec5bffd886c59a7f36473b6d3ec'
+    oldFile: null
+  /dist/assets/guide_develop_editGlobalLang.md.B4ZGxUzb.lean.js:
+    newFile: !uuid '1e985d38367beec5bffd886c59a7f36473b6d3ec'
+    oldFile: null
+  /dist/assets/guide_develop_editKeyboard.md.DRXaP54o.js:
+    newFile: !uuid '2bab4f531663330da0b49cb144fc36b451d4424e'
+    oldFile: null
+  /dist/assets/guide_develop_editKeyboard.md.DRXaP54o.lean.js:
+    newFile: !uuid '2bab4f531663330da0b49cb144fc36b451d4424e'
+    oldFile: null
+  /dist/assets/guide_develop_editRight.md.DNp6vLei.js:
+    newFile: !uuid '0d0311ed9b4f4801fcbc0074dcb203830e3e76c5'
+    oldFile: null
+  /dist/assets/guide_develop_editRight.md.DNp6vLei.lean.js:
+    newFile: !uuid '0d0311ed9b4f4801fcbc0074dcb203830e3e76c5'
+    oldFile: null
+  /dist/assets/guide_develop_scssColor.md.CCeU6LKI.js:
+    newFile: !uuid '073b96fb7df1638b124e1e7707baa279bf8b6a22'
+    oldFile: null
+  /dist/assets/guide_develop_scssColor.md.CCeU6LKI.lean.js:
+    newFile: !uuid '073b96fb7df1638b124e1e7707baa279bf8b6a22'
+    oldFile: null
+  /dist/assets/guide_disclaimer_disclaimer.md.DRRTpz_T.js:
+    newFile: !uuid 'f2dc5a1e840a4dffe6faa0d55d664dd899870a15'
+    oldFile: null
+  /dist/assets/guide_disclaimer_disclaimer.md.DRRTpz_T.lean.js:
+    newFile: !uuid 'f2dc5a1e840a4dffe6faa0d55d664dd899870a15'
+    oldFile: null
+  /dist/assets/guide_screenTemplate_reactScreenTemplate.md.CCM9Ux5G.js:
+    newFile: !uuid '78b535eb6e99dd1a5b8a01069ca142f6991e3f10'
+    oldFile: null
+  /dist/assets/guide_screenTemplate_reactScreenTemplate.md.CCM9Ux5G.lean.js:
+    newFile: !uuid '78b535eb6e99dd1a5b8a01069ca142f6991e3f10'
+    oldFile: null
+  /dist/assets/guide_screenTemplate_vueScreenTemplate.md.Cw5310ra.js:
+    newFile: !uuid 'ed3c4104a0a1482f82604b857a67ab1e75df46d8'
+    oldFile: null
+  /dist/assets/guide_screenTemplate_vueScreenTemplate.md.Cw5310ra.lean.js:
+    newFile: !uuid 'ed3c4104a0a1482f82604b857a67ab1e75df46d8'
+    oldFile: null
+  /dist/assets/guide_start_globalSetting.md.CXPHNYb1.js:
+    newFile: !uuid '8813401c472d0b66f8992e7a5dafa3c8b880a8cc'
+    oldFile: null
+  /dist/assets/guide_start_globalSetting.md.CXPHNYb1.lean.js:
+    newFile: !uuid '8813401c472d0b66f8992e7a5dafa3c8b880a8cc'
+    oldFile: null
+  /dist/assets/guide_start_index.md.BbmDX6Nh.js:
+    newFile: !uuid 'f6213bc19c5b0088d29509db6d5098477ffc6cd6'
+    oldFile: null
+  /dist/assets/guide_start_index.md.BbmDX6Nh.lean.js:
+    newFile: !uuid 'f6213bc19c5b0088d29509db6d5098477ffc6cd6'
+    oldFile: null
+  /dist/assets/guide_start_more.md.VJR3I7pu.js:
+    newFile: !uuid '71b4902400a03cd0c4416dcb436f4a16ea0bda79'
+    oldFile: null
+  /dist/assets/guide_start_more.md.VJR3I7pu.lean.js:
+    newFile: !uuid '71b4902400a03cd0c4416dcb436f4a16ea0bda79'
+    oldFile: null
+  /dist/assets/guide_start_pageGuide.md.DM4-8_zc.js:
+    newFile: !uuid 'a8b935edb97471d5cc6b27ba47e2f503ca4de1ff'
+    oldFile: null
+  /dist/assets/guide_start_pageGuide.md.DM4-8_zc.lean.js:
+    newFile: !uuid 'a8b935edb97471d5cc6b27ba47e2f503ca4de1ff'
+    oldFile: null
+  /dist/assets/history.CP0URNo7.png:
+    newFile: !uuid 'df15e8c2c1a1a3019c65fb7035e77eab28e50422'
+    oldFile: null
+  /dist/assets/index.md.Cw8-rncL.js:
+    newFile: !uuid '41f58cf69ccf65ae9c3934808f547d44fd222f21'
+    oldFile: null
+  /dist/assets/index.md.Cw8-rncL.lean.js:
+    newFile: !uuid '41f58cf69ccf65ae9c3934808f547d44fd222f21'
+    oldFile: null
+  /dist/assets/inter-italic-cyrillic-ext.r48I6akx.woff2:
+    newFile: !uuid 'b6b603d596933f026dfecf98550bbe4d0876276b'
+    oldFile: null
+  /dist/assets/inter-italic-cyrillic.By2_1cv3.woff2:
+    newFile: !uuid 'def40a4f658cf8a9f7029c98931f5c9ff5a00910'
+    oldFile: null
+  /dist/assets/inter-italic-greek-ext.1u6EdAuj.woff2:
+    newFile: !uuid 'e070c3d30975e9f8d664ef36862a67f198ebb392'
+    oldFile: null
+  /dist/assets/inter-italic-greek.DJ8dCoTZ.woff2:
+    newFile: !uuid 'a3c16ca40b2a8f454c34cfa91996ec99ae2e4aa0'
+    oldFile: null
+  /dist/assets/inter-italic-latin-ext.CN1xVJS-.woff2:
+    newFile: !uuid '2210a899edaeb06655f7bc50e7f94444da140b94'
+    oldFile: null
+  /dist/assets/inter-italic-latin.C2AdPX0b.woff2:
+    newFile: !uuid '790d62dc7ba719231f86afaf50988bf0f3705a5f'
+    oldFile: null
+  /dist/assets/inter-italic-vietnamese.BSbpV94h.woff2:
+    newFile: !uuid '1eec0775a64a8fffc1fe071d33705646708e47c5'
+    oldFile: null
+  /dist/assets/inter-roman-cyrillic-ext.BBPuwvHQ.woff2:
+    newFile: !uuid '2cfe61536e3c527e01071d8ed03d7d2e56c8d5b0'
+    oldFile: null
+  /dist/assets/inter-roman-cyrillic.C5lxZ8CY.woff2:
+    newFile: !uuid 'e3886dd141e2cc1d9738b7d5e0f9f43529e8fdbd'
+    oldFile: null
+  /dist/assets/inter-roman-greek-ext.CqjqNYQ-.woff2:
+    newFile: !uuid '36d67487dcf5fbe3dc6d0a6b01cf4d29dc997765'
+    oldFile: null
+  /dist/assets/inter-roman-greek.BBVDIX6e.woff2:
+    newFile: !uuid '2bed1e85e8b20cb3903206a6cace251c52bdd8c3'
+    oldFile: null
+  /dist/assets/inter-roman-latin-ext.4ZJIpNVo.woff2:
+    newFile: !uuid '9a8d1e2b5ef22b97801781478d477685dd6119f3'
+    oldFile: null
+  /dist/assets/inter-roman-latin.Di8DUHzh.woff2:
+    newFile: !uuid '07d3c53aef14e7e3aec6b11684395f2833e0b3d5'
+    oldFile: null
+  /dist/assets/inter-roman-vietnamese.BjW4sHH5.woff2:
+    newFile: !uuid '57bdc22ae88555c6217307e4064a642f83d642b1'
+    oldFile: null
+  /dist/assets/interact-1.CvoeYWtQ.png:
+    newFile: !uuid '1d5a42dfad4f94b62d7fd2e71123ac5d74981aaa'
+    oldFile: null
+  /dist/assets/interact-2.DnBmfFLo.png:
+    newFile: !uuid 'e35fd3c3ecf3caf079633329b4d7226ba0715ac1'
+    oldFile: null
+  /dist/assets/interact-3.BNhdW4Bi.png:
+    newFile: !uuid '59db1d39261a8730fca81216558d46216a6e67cc'
+    oldFile: null
+  /dist/assets/memory.Dv8ij2aK.png:
+    newFile: !uuid '62d26a9bc3eff6d875647be1ebb19a7765d93fd7'
+    oldFile: null
+  /dist/assets/p1.xKMaXNPz.jpg:
+    newFile: !uuid 'a43851f513cb03462e610a64d63e1e47f1dbb1dc'
+    oldFile: null
+  /dist/assets/p2.DXZlv4Ex.png:
+    newFile: !uuid 'ff53128f09a65b10b50c0c9b59d185d7acd399d9'
+    oldFile: null
+  /dist/assets/pageGuide1.DQUvc2gN.png:
+    newFile: !uuid '9d8119f5150f129ccc8ba2e26569e4d19a233685'
+    oldFile: null
+  /dist/assets/pageGuide2.B3P5A9Ui.png:
+    newFile: !uuid 'dc4f6a7fd835ce12711deb2c7395905b8b58a60f'
+    oldFile: null
+  /dist/assets/pageGuide3.FZCA0s3K.png:
+    newFile: !uuid 'd430e82cfb003eb3c42f2e07e78394a084bd97a5'
+    oldFile: null
+  /dist/assets/pageGuide4.B8DW5pMr.png:
+    newFile: !uuid '676f55966bef36675d6e82a868607572d9481a4a'
+    oldFile: null
+  /dist/assets/pageKeyList.BZtYeSBI.png:
+    newFile: !uuid '80a38c07ff90361c9a42216b4ebec22de03914ed'
+    oldFile: null
+  /dist/assets/preview.Bw8Tu_tE.png:
+    newFile: !uuid '392437d6276a4deb456814a509e83b1dcf1cf167'
+    oldFile: null
+  /dist/assets/qq-person.BSS_UqcT.png:
+    newFile: !uuid '86672c9b134b544c2cd3734b63a1daf203b4e32b'
+    oldFile: null
+  /dist/assets/qq-person.BfoGPFKN.png:
+    newFile: !uuid '9a2737158e7d0f6298b9d0b5175f89acf467870f'
+    oldFile: null
+  /dist/assets/qq-person.Bx2ADGh5.png:
+    newFile: !uuid 'c6910144ec00b3ac31f05bfbd8cf09926e29b9bb'
+    oldFile: null
+  /dist/assets/qq.D6n8dha1.jpg:
+    newFile: !uuid 'f29bc0826cad3ee296446b3a35d586dbfa5b9a3e'
+    oldFile: null
+  /dist/assets/react-screen-1.BzHcvxLd.png:
+    newFile: !uuid '54552a086f5d9568bf9339dbabad3ac863eea985'
+    oldFile: null
+  /dist/assets/renderer.BSf6If59.png:
+    newFile: !uuid '51b65afaaa18582b5f77329989d5f1566c29bc9b'
+    oldFile: null
+  /dist/assets/rights_index.md.BxtgzflZ.js:
+    newFile: !uuid '32d73763fe193fb6707ec933d56b59113220df32'
+    oldFile: null
+  /dist/assets/rights_index.md.BxtgzflZ.lean.js:
+    newFile: !uuid '32d73763fe193fb6707ec933d56b59113220df32'
+    oldFile: null
+  /dist/assets/serve-video.B0dE2__y.png:
+    newFile: !uuid 'e0f48f64ec3011a9a6729290784a4ecb37d370cf'
+    oldFile: null
+  /dist/assets/set-NODE_OPTIONS.zkK6TWHP.png:
+    newFile: !uuid 'eefd74b6c27de43e6cf4521843e0cb3178e7316f'
+    oldFile: null
+  /dist/assets/setting.B4teZ5DV.png:
+    newFile: !uuid '31817ee76046e2be1b60bb2208562b353b60931d'
+    oldFile: null
+  /dist/assets/settingAside.BlXXwaSE.png:
+    newFile: !uuid 'c6c9a4bb3eedf8dfe0d32139f7e581d4249a2c19'
+    oldFile: null
+  /dist/assets/settingAsideRes.Zcuue4ya.png:
+    newFile: !uuid 'e9a4eb1d63e0ffbd2610ccf828b126652bb03999'
+    oldFile: null
+  /dist/assets/settingDock.Cw0kOY6M.png:
+    newFile: !uuid '4faed039bf72c30351a6d164df5040483a29e2c6'
+    oldFile: null
+  /dist/assets/settingDock.Res.BbDUYBtv.png:
+    newFile: !uuid 'b09e87fc2ca6c4c8f8545326b1b3442db1818314'
+    oldFile: null
+  /dist/assets/style.CtrO7ofx.css:
+    newFile: !uuid '8cbe4bc01e676eab867884f741b5469841adf01b'
+    oldFile: null
+  /dist/assets/theme.B95Iobb0.png:
+    newFile: !uuid 'd7574bdb74ecfa5bb221ec631c1b8b29d2e9176b'
+    oldFile: null
+  /dist/assets/updateLog_index.md.g2OrXW_a.js:
+    newFile: !uuid '6474e47c3fca043f8dafc045b4ef9c83cfa12d9c'
+    oldFile: null
+  /dist/assets/updateLog_index.md.g2OrXW_a.lean.js:
+    newFile: !uuid '6474e47c3fca043f8dafc045b4ef9c83cfa12d9c'
+    oldFile: null
+  /dist/assets/valueJS.DCBTMSq7.png:
+    newFile: !uuid 'dba74993c9354bbd25464dc6df09f6450d53c361'
+    oldFile: null
+  /dist/assets/vue-screen1.B3jWhVxL.png:
+    newFile: !uuid 'a7c9da62e6b0c6e2a2b54640f02d0eea103bf5f1'
+    oldFile: null
+  /dist/assets/vue-screen2.B2y5iTdq.png:
+    newFile: !uuid '2ac2a8a1fa2152a990b9c58cab0b8086598cebd4'
+    oldFile: null
+  /dist/assets/wx.9K6gTImS.png:
+    newFile: !uuid 'a0a603a350706aebe15071cae87240a10891cf25'
+    oldFile: null
+  /dist/assets/zfb.DgG5bQnl.png:
+    newFile: !uuid '6ccb4ab588df2a7d1a321a9abeef2e50524f698f'
+    oldFile: null
+  /dist/author:
+    newFile: !uuid '4d212d8bd51cd8930c6d511d63769acc4ed9d36d'
+    oldFile: null
+  /dist/author/index.html:
+    newFile: !uuid '438d0ae39cc9e2f86c8a6838cdbf41b44547d2af'
+    oldFile: null
+  /dist/chengDan:
+    newFile: !uuid '5f7402410f38b22ce94f7b688235a3538a14969c'
+    oldFile: null
+  /dist/chengDan/index.html:
+    newFile: !uuid '7d37b4de1d63a17405d27a5c9b99ba92fe309e87'
+    oldFile: null
+  /dist/cooperative:
+    newFile: !uuid '7116da830df1d3182645234feaaddcfb5680da09'
+    oldFile: null
+  /dist/cooperative/3dsworks .png:
+    newFile: !uuid '4a48444f6829a4d7a34e4643eba370e6f248af45'
+    oldFile: null
+  /dist/cooperative/dromara.png:
+    newFile: !uuid '1894e7c216fd11e2dcbba3f575c16aef85f2a810'
+    oldFile: null
+  /dist/cooperative/index.html:
+    newFile: !uuid '4bf773147dc8c1aadfe5217d4b24d26e09163386'
+    oldFile: null
+  /dist/cooperative/wumei-smart.png:
+    newFile: !uuid '83405c78f1ba429bef0e72b7c03b9e2c7c0ecfdc'
+    oldFile: null
+  /dist/cooperative/万旺科技.png:
+    newFile: !uuid '84dd80c04d8d0bdf965d9449ed768087396af3a2'
+    oldFile: null
+  /dist/cooperative/万象云鼎.png:
+    newFile: !uuid '57926d73cc639820bc885bc4568c6c9eceae53ef'
+    oldFile: null
+  /dist/cooperative/万道通科技.png:
+    newFile: !uuid '7c2060eaca8f016d19dc3869143a91391968cb3d'
+    oldFile: null
+  /dist/cooperative/三缔科技.png:
+    newFile: !uuid '6e1138d23e2575e9b850e36b3e3c27c6ed554b79'
+    oldFile: null
+  /dist/cooperative/世纪易软.png:
+    newFile: !uuid 'fcbd49a14c7db5d7a31f6ccaeb7771db12380f8f'
+    oldFile: null
+  /dist/cooperative/中国能建天津电建.jpg:
+    newFile: !uuid 'cfd3b08a0e02c49024e53cb4e5c4eb1e5ce411e1'
+    oldFile: null
+  /dist/cooperative/中航路通.png:
+    newFile: !uuid '5955190bbe581175995e9765c4a4caadb01915bd'
+    oldFile: null
+  /dist/cooperative/云创.png:
+    newFile: !uuid 'f69cfcfb70519dc9386544c2f07f526f24728cc0'
+    oldFile: null
+  /dist/cooperative/云腾五洲.png:
+    newFile: !uuid 'e9eda35c34cdde5b4ec51b89c9163aad44ec7980'
+    oldFile: null
+  /dist/cooperative/从晶.png:
+    newFile: !uuid 'c1a678025a17027c5953888c3dfbcf8f7e40a512'
+    oldFile: null
+  /dist/cooperative/众铱软件.png:
+    newFile: !uuid 'e0a30fed2de5b7c77e9bba80b69edd38960284a1'
+    oldFile: null
+  /dist/cooperative/依柯力.png:
+    newFile: !uuid '32455783eec5afede4c3c8ab402bc0333c2f86f0'
+    oldFile: null
+  /dist/cooperative/前海金顺.png:
+    newFile: !uuid 'eaf74c300813712b036f91a6d39a7621c758d5d2'
+    oldFile: null
+  /dist/cooperative/南通汉联.png:
+    newFile: !uuid 'd43aba830667f3d12d807be7f19b93aaa641c2a7'
+    oldFile: null
+  /dist/cooperative/啸锋科技.png:
+    newFile: !uuid '0c080c78af19292e14218355106c7cf0ce1b4807'
+    oldFile: null
+  /dist/cooperative/图森未来.png:
+    newFile: !uuid 'a61df37576a0d056a61df5011f35e80dc76655ea'
+    oldFile: null
+  /dist/cooperative/小南.png:
+    newFile: !uuid '97bc27473711485a177f5fd717a81449f0b37c0d'
+    oldFile: null
+  /dist/cooperative/小游.png:
+    newFile: !uuid '179ed559471f92cd70da6e5955a9c0e660bbcad9'
+    oldFile: null
+  /dist/cooperative/慧购智能科技.png:
+    newFile: !uuid '08ea8f4ec128942db1dcd3a066ed50ecfcb0fb60'
+    oldFile: null
+  /dist/cooperative/时信软件.png:
+    newFile: !uuid 'c2cc15e81d5b86767ddedfc2b8d19993248bcf78'
+    oldFile: null
+  /dist/cooperative/明动软件.png:
+    newFile: !uuid '2ac5f1cae669cab2dcd74c75dde178a89ee04ecf'
+    oldFile: null
+  /dist/cooperative/易软天创.png:
+    newFile: !uuid 'b4b153881b2039d88d315e22b6f7ce2fa02f6ce1'
+    oldFile: null
+  /dist/cooperative/星河千帆.png:
+    newFile: !uuid 'f7dafead5cfba318bb82e271990f51e77de5cb1f'
+    oldFile: null
+  /dist/cooperative/柳林.png:
+    newFile: !uuid 'fd74251c5617c9ab644bf1cef92445feec681a2e'
+    oldFile: null
+  /dist/cooperative/正方网络.png:
+    newFile: !uuid 'e3b4e9984b04862ff422fa158ce2b121c72f3515'
+    oldFile: null
+  /dist/cooperative/正舟.png:
+    newFile: !uuid '478280ac87fa406fe979961412b26ce79b828271'
+    oldFile: null
+  /dist/cooperative/水木宏创.png:
+    newFile: !uuid 'd212ada6062de3417e4955adbaf224bb8bb795d5'
+    oldFile: null
+  /dist/cooperative/沙果.png:
+    newFile: !uuid 'e4d744b25e0dc4b312f0d281632d1707338152e0'
+    oldFile: null
+  /dist/cooperative/真容软件.png:
+    newFile: !uuid '8f3afad624d6e7ef6611115d3ef7cc902bfcba01'
+    oldFile: null
+  /dist/cooperative/码云.png:
+    newFile: !uuid 'f5e303c13e99b995a953dac134b92fe55d42ba5d'
+    oldFile: null
+  /dist/cooperative/祥和智能.png:
+    newFile: !uuid 'b4d04ec3f15b6ecfa22950a51792e8421fbc232f'
+    oldFile: null
+  /dist/cooperative/禅道.png:
+    newFile: !uuid '80db7147425034efbdb4bcad9aa5b44e29ca1c30'
+    oldFile: null
+  /dist/cooperative/禾店科技.png:
+    newFile: !uuid '611fad4d0c0ed62b63ef1efff2cdaccffa1d4f63'
+    oldFile: null
+  /dist/cooperative/绿住云.png:
+    newFile: !uuid 'ce39332be3762bab69bf0c1bd79928617f523bd0'
+    oldFile: null
+  /dist/cooperative/腾文.png:
+    newFile: !uuid '43fd8a407b3bab4540a15fece0a183f8cbd8c084'
+    oldFile: null
+  /dist/cooperative/艾倍特斯.png:
+    newFile: !uuid '9e7fcf8db827a9c5b6a601b15efb325b7dbcfa8c'
+    oldFile: null
+  /dist/cooperative/芮捷.png:
+    newFile: !uuid '87e10ab52058c124596b5daf813717926c47da4f'
+    oldFile: null
+  /dist/cooperative/菲玛斯.png:
+    newFile: !uuid 'efe2c4f331e1c8231b10bdb1c24f1331b73fc140'
+    oldFile: null
+  /dist/cooperative/融安.png:
+    newFile: !uuid '10f1845ac2dea035b7c2da5fea73a49272c5b8c1'
+    oldFile: null
+  /dist/cooperative/轻易云.png:
+    newFile: !uuid '12765725e69d5c725f93e99bbcc21b710c9a91d0'
+    oldFile: null
+  /dist/cooperative/金实创展.png:
+    newFile: !uuid '7776789fcdb851a69e3c222e02d1727ec07358b2'
+    oldFile: null
+  /dist/go-view-tip.svg:
+    newFile: !uuid '67f3f43c190f19ef2b99e0c443121b174e2db6f3'
+    oldFile: null
+  /dist/guide:
+    newFile: !uuid '12f157e5f1fb6377af2a552cbf0a8a24771f096d'
+    oldFile: null
+  /dist/guide/design:
+    newFile: !uuid '96e3af3814be0c3a37331de176ea3278e56d99aa'
+    oldFile: null
+  /dist/guide/design/canvas.html:
+    newFile: !uuid 'cf65332a24b1904818632ae09c0fa1253b04c86a'
+    oldFile: null
+  /dist/guide/design/charts.html:
+    newFile: !uuid 'bee36e99987951ba8765e20a61d055e3113c7746'
+    oldFile: null
+  /dist/guide/design/directory.html:
+    newFile: !uuid '71ad22cc93bbe046c4344053161ead2e66a9b516'
+    oldFile: null
+  /dist/guide/design/history.html:
+    newFile: !uuid 'ee1a2dea2fe0bbc7d5fba5460a3ffe7ec843bb44'
+    oldFile: null
+  /dist/guide/design/preview.html:
+    newFile: !uuid '32785bf98a3dc3fe75cd002189332be357c5ce3b'
+    oldFile: null
+  /dist/guide/develop:
+    newFile: !uuid '0dc86b6578a16cdfd6833136bf3dbb407aeea3f7'
+    oldFile: null
+  /dist/guide/develop/addCharts.html:
+    newFile: !uuid '6a78d6ead1cfe5dc5298790e65c0e95c283fbd95'
+    oldFile: null
+  /dist/guide/develop/addEcharts.html:
+    newFile: !uuid '6d599d2eb7151dc618c9a4a8c7d5ecb4d9e632b8'
+    oldFile: null
+  /dist/guide/develop/addInteractCharts.html:
+    newFile: !uuid 'f5f2ca877dc7e3082bd1e4cae0cf6eb4ab56a73e'
+    oldFile: null
+  /dist/guide/develop/editChartsColor.html:
+    newFile: !uuid '9e5e1ec5bdc265ae5e2d84301d87592f13a76554'
+    oldFile: null
+  /dist/guide/develop/editChartsData.html:
+    newFile: !uuid '804a5273a3b9b2ebf0bb2352870b625d1d2f5414'
+    oldFile: null
+  /dist/guide/develop/editGlobalColor.html:
+    newFile: !uuid '10649a6d295babddeb77b97868425d9d6b844fd7'
+    oldFile: null
+  /dist/guide/develop/editGlobalLang.html:
+    newFile: !uuid '6d54510aed3ed220b9508be23a00f05a101726b2'
+    oldFile: null
+  /dist/guide/develop/editKeyboard.html:
+    newFile: !uuid '9954a55f76b9a00f6b809e7a5c421bcb29c16573'
+    oldFile: null
+  /dist/guide/develop/editRight.html:
+    newFile: !uuid '01376645129c830d921068c0260d505d16d83ba4'
+    oldFile: null
+  /dist/guide/develop/scssColor.html:
+    newFile: !uuid '9db86c09005ef0dceb6ec6cd3f2a19b64146c797'
+    oldFile: null
+  /dist/guide/disclaimer:
+    newFile: !uuid '1351b4e9480e20d4fbd997862a21504079e14cca'
+    oldFile: null
+  /dist/guide/disclaimer/disclaimer.html:
+    newFile: !uuid '5fc341445cafd7cfefaa67a34bdfe15baf15ffa1'
+    oldFile: null
+  /dist/guide/screenTemplate:
+    newFile: !uuid '56fd006b2fa2fd8c62d681ffaf4edb90d777cf0c'
+    oldFile: null
+  /dist/guide/screenTemplate/reactScreenTemplate.html:
+    newFile: !uuid '95e689ef5cbbbe19c9d088db3797210e43b807dd'
+    oldFile: null
+  /dist/guide/screenTemplate/vueScreenTemplate.html:
+    newFile: !uuid '9cb68373fe29680a25dbf9e00e0bc9214ecf5701'
+    oldFile: null
+  /dist/guide/start:
+    newFile: !uuid '177dc75b289a87a757e149ee66d6fd572478e0f6'
+    oldFile: null
+  /dist/guide/start/globalSetting.html:
+    newFile: !uuid '5c6fa01616f426c06856584ea8b2accf2afe5316'
+    oldFile: null
+  /dist/guide/start/index.html:
+    newFile: !uuid '195e0198f07d4243e4c622467bff2e854397009f'
+    oldFile: null
+  /dist/guide/start/more.html:
+    newFile: !uuid '16747122f7cceaa63dc7d6abd0a149efd3a043a4'
+    oldFile: null
+  /dist/guide/start/pageGuide.html:
+    newFile: !uuid '48375fc4bef82fb8c876949e9dfb8fcf09eb3d33'
+    oldFile: null
+  /dist/hashmap.json:
+    newFile: !uuid '48ff2543fc0fa5a81a4c06913229569775b9fc82'
+    oldFile: null
+  /dist/index.html:
+    newFile: !uuid '8fa0c4505cde6e0660aeea214597d11e6d204aa3'
+    oldFile: null
+  /dist/logo-t-y.png:
+    newFile: !uuid '9679a20d5258ec7f8c69bb6534e4901319f4b516'
+    oldFile: null
+  /dist/logo-with-shadow.png:
+    newFile: !uuid '29d072dddb1a04e452c93e9e3563a3c68cd30126'
+    oldFile: null
+  /dist/logo.svg:
+    newFile: !uuid '67f3f43c190f19ef2b99e0c443121b174e2db6f3'
+    oldFile: null
+  /dist/poster.png:
+    newFile: !uuid '6d3fef82d8452522d23f34b4bb4b0507b1845e0d'
+    oldFile: null
+  /dist/rights:
+    newFile: !uuid 'b3b415510d7f88829ef2f532065473a97f57462c'
+    oldFile: null
+  /dist/rights/index.html:
+    newFile: !uuid '38a45ccd9352a4adbaf7a1e81a83e1db834d5cd0'
+    oldFile: null
+  /dist/sponsor:
+    newFile: !uuid '894766f1d256294d7474a131327043df116532bd'
+    oldFile: null
+  /dist/sponsor/Diboot-banner.png:
+    newFile: !uuid '7e83f45c3e326a9586bd20b5008b6707ddaba6cb'
+    oldFile: null
+  /dist/sponsor/Diboot.png:
+    newFile: !uuid '377ed67d7f82885f062c79dab66724abcc1f43ae'
+    oldFile: null
+  /dist/sponsor/ccflow-banner.png:
+    newFile: !uuid '7f537a708bf6dc3e18d4245fd33c8248d16d85bd'
+    oldFile: null
+  /dist/sponsor/ccflow.png:
+    newFile: !uuid '816558a8abf2c9dfebcb5cebd33d3275a9c1b785'
+    oldFile: null
+  /dist/sponsor/chengdan-banner.png:
+    newFile: !uuid '2710bd2de77015989959dfbcef59bb13da0d7af8'
+    oldFile: null
+  /dist/sponsor/chengdan.png:
+    newFile: !uuid '41f8d3f63fdfc5fc888c7328df78e05d0efe2e50'
+    oldFile: null
+  /dist/sponsor/dandian-banner.png:
+    newFile: !uuid '77b8a4a6c0052e61d3998c8750fbf456949d6782'
+    oldFile: null
+  /dist/sponsor/dandian.png:
+    newFile: !uuid '0f9abc44cb86c738c5b2c8b42cf509e1bdfa6ed4'
+    oldFile: null
+  /dist/sponsor/echarts-banner.png:
+    newFile: !uuid 'dfe746e8c9c75df90644bce65016b360e0550d29'
+    oldFile: null
+  /dist/sponsor/fb-banner.gif:
+    newFile: !uuid '811bbc37be21bd7a1a64bc481fef32413a6d521e'
+    oldFile: null
+  /dist/sponsor/fb-banner.png:
+    newFile: !uuid '25631886f1346414423b6151ba4d3c71b9981787'
+    oldFile: null
+  /dist/sponsor/fb.gif:
+    newFile: !uuid 'f17c021cbb1b48cb23fa16e986b5df821ef7240a'
+    oldFile: null
+  /dist/sponsor/fengniao-banner.png:
+    newFile: !uuid '9098f766a688df6660de8c8e42f981159d7dadab'
+    oldFile: null
+  /dist/sponsor/fengniao.png:
+    newFile: !uuid 'b697dcc78e27c7240560627793d2e7d9c476c0dc'
+    oldFile: null
+  /dist/sponsor/iview-banner.png:
+    newFile: !uuid '53db1f9965938def431bc354df8ebe0a6c720720'
+    oldFile: null
+  /dist/sponsor/iview.png:
+    newFile: !uuid 'aa59a2e0744cc1ecc87840117e8334e77e2eae77'
+    oldFile: null
+  /dist/sponsor/jnpf-banner.png:
+    newFile: !uuid 'e39299a5fc4be3b97efcc8048aa41efe4468a36a'
+    oldFile: null
+  /dist/sponsor/jnpf.png:
+    newFile: !uuid '4ead9c44aa7e01a323f80a4767753bd956cd44e3'
+    oldFile: null
+  /dist/sponsor/mdy-banner.png:
+    newFile: !uuid '70c452074d786f399e1558c1fef67db167f5b4a3'
+    oldFile: null
+  /dist/sponsor/mdy.png:
+    newFile: !uuid '0d3a462db14b212291653e90787cc3b1ac8a1bc7'
+    oldFile: null
+  /dist/sponsor/qyy-banner.png:
+    newFile: !uuid '04e4fefe8499b72a22089ca62cc4d9f964604e09'
+    oldFile: null
+  /dist/sponsor/qyy.png:
+    newFile: !uuid 'cb5041a766da5d86ca4ad245c1eea4b73a1c6d5f'
+    oldFile: null
+  /dist/sponsor/react-banner.png:
+    newFile: !uuid 'f5d25296e9abc653a194c7808b545adc5b10e0f1'
+    oldFile: null
+  /dist/sponsor/shaguo-banner.png:
+    newFile: !uuid 'cd5fb160eccf6735d9c116f5a380683f384d5ee4'
+    oldFile: null
+  /dist/sponsor/shaguo.png:
+    newFile: !uuid 'a3ebb027388c909f88c03521840e51387d86b073'
+    oldFile: null
+  /dist/sponsor/vue2-banner.png:
+    newFile: !uuid '800cb47d13a92401cad9457c53b0ef60f0050d81'
+    oldFile: null
+  /dist/sponsor/vue3-banner.png:
+    newFile: !uuid 'de2bd1770f4942b763ae725c4d89f6694686f2a8'
+    oldFile: null
+  /dist/sponsor/xfkj-banner.png:
+    newFile: !uuid 'ac59a8bdc163902df0f9cf8391fb4a1caeb22940'
+    oldFile: null
+  /dist/sponsor/xfkj.png:
+    newFile: !uuid 'c8026493dcfc3b66ec80f5f1595e46f7241297de'
+    oldFile: null
+  /dist/sponsor/xingyun-banner.png:
+    newFile: !uuid 'f446a7d97035626f4a8b02a0d64b2afba8a946f1'
+    oldFile: null
+  /dist/sponsor/xingyun.png:
+    newFile: !uuid 'befecaabb8f815062facab07ddf0f49496a5a520'
+    oldFile: null
+  /dist/sponsor/yuncheng-banner.png:
+    newFile: !uuid '7da1cf6fadb2771d245294167d5ee53535bd48f5'
+    oldFile: null
+  /dist/sponsor/yuncheng.png:
+    newFile: !uuid 'fb384c314f563abfa0a2a4b6001467f26254b68b'
+    oldFile: null
+  /dist/sponsor/zyplayer-banner.png:
+    newFile: !uuid '249fc6b728af9709eaf98dcd59fc478a092c8456'
+    oldFile: null
+  /dist/sponsor/zyplayer.png:
+    newFile: !uuid '062edb913b3f23c38c58ae76264f1557c124d34b'
+    oldFile: null
+  /dist/updateLog:
+    newFile: !uuid 'ff926cf1879c4c48272690932a00b2f5201b83e0'
+    oldFile: null
+  /dist/updateLog/index.html:
+    newFile: !uuid '787ea0b4bbb498f0547a8621df0c1128a8ee2c7c'
+    oldFile: null
+gitCommitId: !uuid '03103c05035feb095cb17c633a3439ad71a585b6'
 renames: {
   }
-revisionId: 4
+revisionId: 5
