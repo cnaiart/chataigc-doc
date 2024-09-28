@@ -2,16 +2,106 @@
 branches: {
   }
 fileChange:
-  /LICENSE:
-    newFile: !uuid '6624333ef956322c073dcd18c46bb981d9e5b394'
-    oldFile: !uuid '2d92f5e5c49a503c9952c29c9de16e56d2e86ecf'
-  /README.en.md:
-    newFile: !uuid '724b31abcf7eee4afd46b54de2525df14642a1bc'
-    oldFile: !uuid 'a089ae70bcaa7c4fad274f47d8aafb468c464767'
-  /README.md:
-    newFile: !uuid '9472df00918b5083848be3edc21949a9d3dd305a'
-    oldFile: !uuid 'c34383317421c9cab5536c8cfa5e0a1c3453078b'
-gitCommitId: !uuid '8ac22602c8b7ff534060c877eeaddb757db6780f'
+  /.vitepress:
+    newFile: !uuid '7d07791977daa064fec02eb310dd80485acd4c8b'
+    oldFile: null
+  /.vitepress/cache:
+    newFile: !uuid '7c232ac9b9f57d44d9510a063139f745547f3401'
+    oldFile: null
+  /.vitepress/cache/deps:
+    newFile: !uuid 'acdcc31d36c6d1378dba45d19ac52b9a262f7bb7'
+    oldFile: null
+  /.vitepress/cache/deps/_metadata.json:
+    newFile: !uuid '9fb2eb2cc89b6cb7762eccc3a254d26397e270a7'
+    oldFile: null
+  /.vitepress/cache/deps/chunk-NT7YHOBS.js:
+    newFile: !uuid '9f8b561689a0fb1690388b48d06c2ecc593d8429'
+    oldFile: null
+  /.vitepress/cache/deps/chunk-NT7YHOBS.js.map:
+    newFile: !uuid 'd501cbb5b6bb84a364156913e62c1ae5ff213e19'
+    oldFile: null
+  /.vitepress/cache/deps/package.json:
+    newFile: !uuid '3dbc1ca591c0557e35b6004aeba250e6a70b56e3'
+    oldFile: null
+  /.vitepress/cache/deps/vitepress___@vue_devtools-api.js:
+    newFile: !uuid '267724f9e1bc910676a6b4ddb28adff292462537'
+    oldFile: null
+  /.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map:
+    newFile: !uuid '2b53651c001c3f2a9c89e13d25e9ac2f30cef40e'
+    oldFile: null
+  /.vitepress/cache/deps/vitepress___@vueuse_core.js:
+    newFile: !uuid '3cf1f7b017cc1a2bce20e743701696deb5b930c0'
+    oldFile: null
+  /.vitepress/cache/deps/vitepress___@vueuse_core.js.map:
+    newFile: !uuid '598bf0a1ea6c0544b34115051ca9b8be930dbfd6'
+    oldFile: null
+  /.vitepress/cache/deps/vue.js:
+    newFile: !uuid '4b74def380f2be032fe395d5e36fae7e4e8716a2'
+    oldFile: null
+  /.vitepress/cache/deps/vue.js.map:
+    newFile: !uuid '98652118b6862120fb1a693020ad8654fe85851d'
+    oldFile: null
+  /.vitepress/config copy.mts:
+    newFile: !uuid '2d8980026333658594e2ca40f102661e61170bc1'
+    oldFile: null
+  /.vitepress/config.mts:
+    newFile: !uuid '483abf09dc799128102f718a853a29d62da89cf9'
+    oldFile: null
+  /.vitepress/theme:
+    newFile: !uuid '4d88649dab648dcb4515bd6efa2602e6231a7faf'
+    oldFile: null
+  /.vitepress/theme/components:
+    newFile: !uuid '385ade72476894e6f835ae601fdf84c733aec70f'
+    oldFile: null
+  /.vitepress/theme/components/AsideSponsors.vue:
+    newFile: !uuid 'cd2a4caa623059c01e3c51b1a7f016fd6fb0789f'
+    oldFile: null
+  /.vitepress/theme/components/HomeSponsors.vue:
+    newFile: !uuid '9729c8689e21e27a82821bf9667c7444ce96d7cd'
+    oldFile: null
+  /.vitepress/theme/components/LayoutBottom.vue:
+    newFile: !uuid 'a0dbd4566061abfd22a73db699166320814838a4'
+    oldFile: null
+  /.vitepress/theme/components/SidebarNavBefore.vue:
+    newFile: !uuid '9df8ee4f914eec43be3e9a7a0bd22ad35e2a2304'
+    oldFile: null
+  /.vitepress/theme/components/SvgImage.vue:
+    newFile: !uuid '3440988030d2db9a7ca6a364fd16f9162779c9e0'
+    oldFile: null
+  /.vitepress/theme/composables:
+    newFile: !uuid 'dab8b953f8e3ccf44081fb2fb07dfe9b730a7593'
+    oldFile: null
+  /.vitepress/theme/composables/cooperative.ts:
+    newFile: !uuid 'df5adcd15e089d35fad7c4fcdb4eda36f08b8ec5'
+    oldFile: null
+  /.vitepress/theme/composables/sponsor.ts:
+    newFile: !uuid 'c91f3bd20522fd014d75d7b63e12383a09900f31'
+    oldFile: null
+  /.vitepress/theme/custom copy.css:
+    newFile: !uuid 'd69e081ca366e80f8f0ba23784537814f238750e'
+    oldFile: null
+  /.vitepress/theme/custom.css:
+    newFile: !uuid '0e7eb2e398f234b28e2dde08d144b23a4feea333'
+    oldFile: null
+  /.vitepress/theme/index.ts:
+    newFile: !uuid '2bcd4c2bb56ff67f391462d43230f603b32d6aeb'
+    oldFile: null
+  /.vitepress/theme/styles:
+    newFile: !uuid '701517e4c9eb0a7e07f1aeae555d81d1e407a6bb'
+    oldFile: null
+  /.vitepress/theme/styles/vars copy.css:
+    newFile: !uuid '67a6a6ce347c15fd816b3031f3da0ba40c43114d'
+    oldFile: null
+  /.vitepress/theme/styles/vars.css:
+    newFile: !uuid '67a6a6ce347c15fd816b3031f3da0ba40c43114d'
+    oldFile: null
+  /.vitepress/utils:
+    newFile: !uuid '45045752b67d9f818aa2b3500feda00fb1966f37'
+    oldFile: null
+  /.vitepress/utils/fetchReleaseTag.js:
+    newFile: !uuid '0ea178048139048f8ad21ee94cabdb6a9f297f76'
+    oldFile: null
+gitCommitId: !uuid '785e51cadcd8b4a9ca446ad349be3ef8dba9323c'
 renames: {
   }
-revisionId: 3
+revisionId: 4
